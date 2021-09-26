@@ -1,0 +1,29 @@
+.card{
+  background-color: rgb(49, 60, 95);
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.pictures{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.selected-btn{
+  border: 0;
+  color: rgb(47, 6, 6);
+  background-color:rgb(142, 153, 185);
+  padding: 10px 15px;
+  font-size: 20px;
+  border-radius:10px ;
+  font-weight: 400;
+}
+
+.icon{ 
+  display: flex;
+ justify-content: space-evenly;
+}
+

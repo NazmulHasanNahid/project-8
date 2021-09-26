@@ -1,0 +1,10 @@
+.selected{
+  background-color: rgb(49, 60, 95);
+  border-radius: 20px;
+  margin: 20px;
+  padding: 50px;
+  color: white;
+}
+.orange-color{
+  color:orange ;
+}

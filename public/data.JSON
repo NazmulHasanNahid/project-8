@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Afran Niso",
+    "cost": 10000,
+    "character": "Hero",
+    "age": 32,
+    "height": "6fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/p526x296/242014350_1915331161960680_4489926088743313944_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=auRdVXTKp0EAX9FROgZ&_nc_ht=scontent.fcgp1-1.fna&oh=58cb7dbf08a720587456d7213e16615b&oe=617337AF"
+  },
+  {
+    "name": "Mehajabin Chowdory",
+    "cost": 7000,
+    "character": "Heroin",
+    "age": 25,
+    "height": "5.5fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/s640x640/242316432_397092075119360_4821366147131923336_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=-v7itjiNjoIAX8P_r_I&tn=fcFS5s8vNyeAze1J&_nc_ht=scontent.fcgp1-1.fna&oh=b02378ab11bc5428c60b9a11d0643028&oe=6175196D"
+  },
+  {
+    "name": "Siam Ahmed",
+    "cost": 8000,
+    "character": "Side Cast",
+    "age": 28,
+    "height": "6fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/242391918_415409793285924_3591650853506191275_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=lpr-XBQMgh4AX_UjYRA&_nc_ht=scontent.fcgp1-1.fna&oh=6974fc4cbf2384b8c754f7a8e978932d&oe=6154F7B6"
+  },
+  {
+    "name": "Safa Kabir",
+    "cost": 10000,
+    "character": "Side cast",
+    "age": 23,
+    "height": "5.6 fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/s960x960/241939103_463090115172559_588089901459233539_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=xHKKgqOMLRMAX_UY2qf&_nc_ht=scontent.fcgp1-1.fna&oh=d03d98d3881568a145a507161ed2a830&oe=61768B56"
+  },
+  {
+    "name": "Jovan Ahmed",
+    "cost": 10000,
+    "character": "Side cast",
+    "age": 27,
+    "height": "5fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/s600x600/240830340_396046911892725_9177956073898919125_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=1PJW5m7rrdYAX_fMwyi&_nc_ht=scontent.fcgp1-1.fna&oh=7d4ea701085ab0b332f656ed44fa2ea5&oe=6176A8B2"
+  },
+  {
+    "name": "Mumtaheena Toya",
+    "cost": 5000,
+    "character": "Side cast",
+    "age": 24,
+    "height": "5.4fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/s960x960/241886601_423551055797318_6047011568671581014_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=kUR8uDsBaGgAX-0-N1i&_nc_ht=scontent.fcgp1-1.fna&oh=2b349cc09f0237679d439f432c02e534&oe=61536F3D"
+  },
+  {
+    "name": "Khairul Basar",
+    "cost": 5000,
+    "character": "Side cast",
+    "age": 26,
+    "height": "6fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/134371032_3603250309768005_3700884042012503444_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=tJCczEj-0KcAX-VTxfj&_nc_ht=scontent.fcgp1-1.fna&oh=cb7b486145bfeba7c6c116a2fdad1a09&oe=6174EA4F"
+  },
+  {
+    "name": "Nazifa Tushi",
+    "cost": 10000,
+    "character": "Side Cast",
+    "age": 25,
+    "height": "5fit",
+    "img": "https://thedailynewnation.com/library/1526227180_6.jpg"
+  },
+  {
+    "name": "Yash Rohan",
+    "cost": 6000,
+    "character": "side cast",
+    "age": 29,
+    "height": "5.6fit",
+    "img": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/241519445_512259776747842_2692882567887574270_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=nITKRQkVl2sAX9warf8&_nc_ht=scontent.fcgp1-1.fna&oh=1db037bfb600a0784b40f36587be6f6f&oe=61544DDC"
+  },
+  {
+    "name": "Mabrur Rashid Banna",
+    "cost": 12000,
+    "character": "Director",
+    "age": 32,
+    "height": "6.5fit",
+    "img": "https://yt3.ggpht.com/ytc/AKedOLQgBF5nP8-BVxfQgDsRGx7pTskUXqnSbO4fCfIn=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "Ziaul Hoque Polash",
+    "cost": 11000,
+    "character": "Asistant - Director",
+    "age": 28,
+    "height": "5fit",
+    "img": "https://i.ytimg.com/vi/qlZvpKoh1Q8/sddefault_live.jpg"
+  },
+  {
+    "name": "Mahfuzur Rahman",
+    "cost": 13000,
+    "character": "cinematographer",
+    "age": 45,
+    "height": "6fit",
+    "img": "https://www.daily-bangladesh.com/media/imgAll/2019September/en/p6-1911251952-1911260703.jpg"
+  }
+]

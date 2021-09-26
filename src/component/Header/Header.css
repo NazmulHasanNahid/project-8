@@ -1,0 +1,14 @@
+.header{
+  background-color: rgb(49, 60, 95);
+  color: white;
+  padding: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.custom-color{
+  color: orange;
+  font-size: 20px;
+  font-weight: 700;
+}
